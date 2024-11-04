@@ -1,0 +1,58 @@
+{
+    "book0": {
+        "title": "Sacrifice Moon",
+        "author": "Julie Fortune",
+        "description": "SG-1 must investigate strange occurrences on the planet Argos, where the inhabitants, known as the Chosen, are descendants of the Greek civilization. The planet was once controlled by the Goa'uld Pelops, who experimented on the population in an attempt to extend their lifespan.",
+        "year": 2005,
+        "image": "book_cover_1.png",
+        "planet": "P3X-8596"
+    },
+    "book1": {
+        "title": "City of the Gods",
+        "author": "Sonny Whitelaw",
+        "description": "SG-1 discovers a world divided between the dark side, home to the 'Touched', and the light side, home to the 'Untouched'. A virus causes those with histamine in their bodies to revert to primal states. The leader of the light side, Tuplo, seeks help from SG-1 to cure his people.",
+        "year": 2004,
+        "image": "book_cover_2.png",
+        "planet": "P3X-797"
+    },
+    "book2": {
+        "title": "Barque of Heaven",
+        "author": "Suzanne Wood",
+        "description": "SG-1 travels to P7X-377, a world that holds a massive spaceship known as the Barque of Heaven. They must unlock its secrets while dealing with the planet's unique challenges and threats.",
+        "year": 2008,
+        "image": "book_cover_3.png",
+        "planet": "P7X-377"
+    },
+    "book3": {
+        "title": "Valhalla",
+        "author": "Tim Waggoner",
+        "description": "On the planet Valhalla, SG-1 finds themselves in the midst of a Viking-like culture facing extinction. They must navigate the local politics and mythology to help save the people from an ancient threat.",
+        "year": 2001,
+        "image": "book_cover_4.png",
+        "planet": "P3X-774"
+    },
+    "book4": {
+        "title": "Heart's Desire",
+        "author": "Amy Griswold",
+        "description": "SG-1 encounters a world where the inhabitants' deepest desires are magically granted, but these gifts come with dangerous consequences. The team must find a way to break the enchantment before it's too late.",
+        "year": 2009,
+        "image": "book_cover_5.png",
+        "planet": "P3X-421"
+    },
+    "book5": {
+        "title": "Female of the Species",
+        "author": "Geonn Cannon",
+        "description": "On a matriarchal world where men are second-class citizens, SG-1 must navigate cultural tensions and uncover the secrets behind the society's strict gender roles while completing their mission.",
+        "year": 2012,
+        "image": "book_cover_6.png",
+        "planet": "P3X-595"
+    },
+    "book6": {
+        "title": "admin",
+        "author": "admin",
+        "description": "something",
+        "year": "123",
+        "image": "book_cover_7.png",
+        "planet": "something"
+    }
+}

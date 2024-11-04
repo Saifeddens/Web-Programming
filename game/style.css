@@ -1,0 +1,76 @@
+
+.box {
+    width: auto;
+    height:20%;
+    outline: 0.000001px solid black; 
+    border-radius: 12px;
+    background-color: green;
+    margin:3px 1.5px;
+
+    
+    align-items: center; 
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    position: absolute;
+    border-radius: 12px;
+}
+.row{
+    width: 400px;
+    height: 96.5%;
+}
+.box img {
+    /* width: 100%; 
+    height: 100%; */
+    object-fit: cover; 
+    position: absolute;
+}
+.back-face{
+    position: relative;
+    z-index: 0;
+    height: 97px;
+    pointer-events: none;
+}
+.pic1{ 
+    position: relative; 
+    z-index: 100; 
+    top: 0; 
+    left: 0; 
+    background-image: url("Assets/Oasis_marker.png");
+    /* width: 100%;
+    height: 100%; */
+    background-repeat: repeat-x;
+    } 
+.front-face{ 
+    position: relative; 
+    z-index: 2; 
+    height: 97px;
+    transform: scale(1.2);
+    pointer-events: none;
+    } 
+
+    
+.right-aligned {
+    text-align: right;
+    margin-right: 20px; 
+}
+
+.body {
+    display: flex;
+    justify-content: flex-end; 
+    height: 100vh; 
+    margin: 0; 
+    width: 100%; 
+}
+
+.container1 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; 
+}
+.big-text-px {
+    font-size: 24px;  /* Sets the font size to 24 pixels */
+}

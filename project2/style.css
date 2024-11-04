@@ -1,0 +1,50 @@
+body {
+    background-image: url('./theme.png'); 
+    background-size: cover;
+}
+.firstmission {
+    position: fixed;  
+    right: 27%;         
+    top: 40%;        
+    transform: translateY(-50%); 
+    width: 350px;     
+    height: auto; 
+    position:absolute;
+
+}
+.grid {
+    width: 672px;
+    height: 670px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.grid div {
+    width: 59px;
+    height: 59px;
+    margin: 1px;
+    background-color: beige;
+}
+
+.elements-container {
+    width: 185px;
+    height: 182px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute; /* Use absolute positioning */
+    top: 10px; /* 10px from the top of the page */
+    right: 10px; /* 10px from the right of the page */
+    background-color: white;
+}
+
+
+.elements-container div {
+    width: 59px;
+    height: 59px;
+    margin: 1px;
+    background-color: beige;
+}
+button {
+    margin-top: 10px; 
+}

@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "email": "admin@something.com",
+        "password": "$2y$10$toGdHO.zTnIzbtI8WfV5AuJWuURPaRsZfYjtj7GUjAICRkQBpUBQK",
+        "last_login": "2024-06-09 16:23:55",
+        "is_admin": true
+    },
+    "saifo": {
+        "email": "skurdi",
+        "password": "$2y$10$mcRwlwZ\/cKgaWO6d1qHX.OfubADWFQ\/OVP8p7beVChsH4HAKEzF86",
+        "last_login": "2024-06-10 20:17:27",
+        "is_admin": false
+    },
+    "susu": {
+        "email": "susu",
+        "password": "$2y$10$fpj6dQfHa05yW8ViHQHqIuSoeOt.6lsvR11atevFX5OEi.mGgRmyG",
+        "last_login": "2024-06-10 20:24:52",
+        "is_admin": false
+    }
+}
